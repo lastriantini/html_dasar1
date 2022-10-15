@@ -16,7 +16,7 @@ body {
     font-size: 25px;
     color:#484646;
     text-align: center;
-    margin-bottom: -10px
+    margin-bottom: -10px;
 }
 
 .navbar {
@@ -48,7 +48,7 @@ body {
     font-display:center;
     padding-left: 50px;
     padding-right: 50px;
-    background-color:hsl(35, 100%, 90%);
+    background-color: hsl(35, 100%, 90%);
     padding-bottom: 30px;
     padding-top: 25px;
     border-radius: 100px;
