@@ -13,9 +13,10 @@ body {
 }
 
 .container{
-    font-size: 30px;
+    font-size: 25px;
     color:#484646;
     text-align: center;
+    margin-left: 50px;
 }
 
 .navbar {
