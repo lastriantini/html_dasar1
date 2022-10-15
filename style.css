@@ -74,10 +74,11 @@ body {
   .images {
     padding-left: 15px;
     padding-right: 15px;
+    width: 340px;
   }
 
   .name {
-    font-size: 30px;
+    font-size: 25px;
   }
   
   figure { margin: 0; }
