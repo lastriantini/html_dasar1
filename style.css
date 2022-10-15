@@ -21,6 +21,7 @@ body {
 
 .navbar {
     text-align: center;
+    font-size: 20px;
 }
 
 .list-nav li {
@@ -72,6 +73,10 @@ body {
   .images {
     padding-left: 15px;
     padding-right: 15px;
+  }
+
+  .name {
+    font-size: 30px;
   }
   
   figure { margin: 0; }
