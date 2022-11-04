@@ -61,10 +61,6 @@ body {
     text-align: center;
   }
 
-.content img .hover {
-   margin-top: 10px;
-}
-
   img { 
     max-width: 100%;
   }
@@ -74,15 +70,15 @@ body {
     justify-content: space-around;
   }
 
-.gallery:hover {
-    padding-top: 5px;
-    transition: 1s;
-  }
-  
   .images {
     padding-left: 30px;
     padding-right: 30px;
     width: 340px;
+  }
+
+  .images:hover {
+      padding-top: 5px;
+      transition: 1s;
   }
 
   .name {
