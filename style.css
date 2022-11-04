@@ -118,7 +118,6 @@ body {
   }
   
   .section-header {
-    color: #996633;
     text-align: center;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -150,10 +149,9 @@ body {
   }
   
   .text-left { text-align: left; }
-  tr:nth-child(odd) { background-color: #eee5dc; }
+     
   
   tr.tr-header {
-    background-color: #cfae8b;
     height: 50px;
   }
   
