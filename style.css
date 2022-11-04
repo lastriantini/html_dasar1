@@ -73,6 +73,11 @@ body {
     display: flex;
     justify-content: space-around;
   }
+
+.gallery:hover {
+    padding-top: 5px;
+    transition: 1s;
+  }
   
   .images {
     padding-left: 30px;
